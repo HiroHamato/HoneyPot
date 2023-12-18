@@ -15,8 +15,8 @@ from util import IntRange
 LOG_FILE_NAME = "ssh-honeypot.log"
 LOG_FILE_LOCK = threading.Lock()
 
-TOKEN = "6454211004:AAGHjg0F8dCXneF7O7CzLTO0NRukE-_auq8"
-chat_id = "1394904579"
+TOKEN = ""
+chat_id = ""
 
 
 # Banners
